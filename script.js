@@ -52,11 +52,11 @@ document.addEventListener('DOMContentLoaded', () => {
         response: 'O prazo padrão para qualquer bordado é de até 7 dias úteis, contados a partir da aprovação final.'
     },
     matriz: {
-        keywords: [
-            'matriz', 'matrizes', 'arquivo', 'arquivos para bordado', 'arquivo digital', 'digitalização', 'digitalizacao', 'converter arquivo', 'desenho vetorial', 'arquivo pes', 'dst', 'bordado computadorizado', 'criação de matriz', 'criacao de matriz', 'arquivo para máquina', 'arquivo para maquina'
-        ],
-        response: 'Nós da Kelly Bordados não criamos matrizes de bordado, que são os arquivos digitais necessários para a máquina bordar. No entanto, nós trabalhamos com uma parceira que faz esse serviço para nossos clientes.'
-    },
+    keywords: [
+        'matriz', 'matrizes', 'arquivo', 'arquivos para bordado', 'arquivo digital', 'digitalização', 'digitalizacao', 'converter arquivo', 'desenho vetorial', 'arquivo pes', 'dst', 'bordado computadorizado', 'criação de matriz', 'criacao de matriz', 'arquivo para máquina', 'arquivo para maquina'
+    ],
+    response: 'Nós da Kelly Bordados criamos matrizes de bordado, que são os arquivos digitais necessários para a máquina bordar. A matriz é o desenho digitalizado e formatado para que a máquina possa bordar com precisão o seu logo, arte ou nome desejado.'
+},
     atendimento: {
         keywords: [
             'atendimento', 'horário', 'horario', 'contato', 'telefone', 'whatsapp', 'como entrar em contato', 'dúvida', 'duvida', 'suporte', 'ajuda', 'resposta', 'chat', 'atendimento online', 'reclamação', 'reclamacao', 'sugestão', 'sugestao'
